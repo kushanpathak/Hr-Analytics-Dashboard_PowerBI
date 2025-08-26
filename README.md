@@ -78,4 +78,8 @@ Integration with live HRIS/ERP systems.
 Advanced drill-through reports (e.g., department-level attrition forecasting).
 
 Dashboard
+
+
+
+
 <img width="605" height="335" alt="image" src="https://github.com/user-attachments/assets/05f8a0a2-0d04-4694-81c3-0d5659d14902" />
